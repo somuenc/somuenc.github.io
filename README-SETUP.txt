@@ -1,26 +1,24 @@
-SOMUENC.GITHUB.IO PORTFOLIO STARTER
+RESUME-BASED GITHUB PAGES PORTFOLIO
 
-Files:
-- index.html: homepage
-- summary.html, experience.html, architecture.html, technologies.html,
-  projects.html, ai-ml.html, achievements.html, contact.html: separate pages
-- styles.css: shared light theme and responsive layout
-- script.js: mobile navigation and active-page highlighting
+Upload every file in this folder to the ROOT of:
+https://github.com/somuenc/somuenc.github.io
 
-PUBLISH:
-1. Open https://github.com/somuenc/somuenc.github.io
-2. Upload all files from this folder into the repository ROOT (not a subfolder).
-3. Commit the changes to your Pages publishing branch (usually main).
-4. Open Settings > Pages and verify Deploy from branch, main, / (root).
-5. Wait for the Pages deployment to finish.
+Files include 9 HTML pages, styles.css and script.js.
+Keep all files together in the repository root so navigation and styling work.
 
-BEFORE PUBLICATION:
-- Replace the LinkedIn placeholder with your actual profile URL.
-- Verify all employment titles, dates, and organization names.
-- Add earlier employers and their achievements to experience.html.
-- Add verified project-specific repository links to projects.html.
-- Review all Schwab-related content for confidentiality and employer disclosure rules.
-- Add a resume PDF only if you want it publicly accessible.
+Publish:
+1. Repository > Add file > Upload files.
+2. Select all extracted files and upload them to the root.
+3. Commit to the GitHub Pages publishing branch.
+4. Settings > Pages: deploy from main / (root), if that is your configured branch.
+5. Wait for deployment and test each navigation link.
 
-This starter deliberately avoids inventing earlier employers, performance metrics,
-awards, or production outcomes.
+Review before publishing:
+- Confirm the resume's dates, official titles and employer spellings.
+- The resume lists Charles Schwab as Nov 2018–Present and title Senior Software Developer / Full Stack Lead. The website preserves that wording rather than assuming separate promotions/titles.
+- Verify the exact legal/company spellings for DIASPark, Honeywell, Verizon and Wipro.
+- Add more detailed project links to projects.html.
+- Add signer tagging and WebViewer customization details only at a public-safe level.
+- Do not publish internal Schwab architecture diagrams, customer information, source code, security details or confidential product information.
+- Your resume contains a phone number; it has intentionally not been copied to this public website.
+- Confirm that the contact email and LinkedIn URL are appropriate for public display.
